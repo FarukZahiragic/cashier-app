@@ -1,0 +1,12 @@
+Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
+
+
+
+
+
+DESKTOP-PMRCAL6\SQLEXPRESS
+
+
+
+
+Data Source=DESKTOP-PMRCAL6\SQLEXPRESS;Initial Catalog=ElektronskoPlacanje;Integrated Security=True
