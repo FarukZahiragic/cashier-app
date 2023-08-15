@@ -1,0 +1,66 @@
+c:\users\faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\ElektronskoPlacanje.exe.config
+c:\users\faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\ElektronskoPlacanje.exe
+c:\users\faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\ElektronskoPlacanje.pdb
+c:\users\faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.csprojResolveAssemblyReference.cache
+c:\users\faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.Glavni.resources
+c:\users\faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.Proizvodi.resources
+c:\users\faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.Properties.Resources.resources
+c:\users\faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.csproj.GenerateResource.Cache
+c:\users\faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.exe
+c:\users\faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.pdb
+C:\Users\Faruk\Documents\Visual Studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.NoviRacun.resources
+C:\Users\Faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.PrikažiRačune.resources
+C:\Users\Faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.AzurirajRacun.resources
+C:\Users\Faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\StampajRacune.rpt
+C:\Users\Faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\StampajRacune.cs
+C:\Users\Faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.StampajRacun.resources
+C:\Users\Faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.IzvjestajProdaje.resources
+C:\Users\Faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\IzvjestajiProdaje.rpt
+C:\Users\Faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\IzvjestajiProdaje.cs
+C:\Users\Faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\RačuniIzmeđuDvaBroja.rpt
+C:\Users\Faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\RačuniIzmeđuDvaBroja.cs
+C:\Users\Faruk\documents\visual studio 2012\Projects\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.RačuniIzmeđuDvaBr.resources
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\ElektronskoPlacanje.exe.config
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.exe
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.pdb
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\IzvjestajiProdaje.rpt
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\RačuniIzmeđuDvaBroja.rpt
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\StampajRacune.rpt
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\IzvjestajiProdaje.cs
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\RačuniIzmeđuDvaBroja.cs
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\StampajRacune.cs
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\ElektronskoPlacanje.exe
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\ElektronskoPlacanje.pdb
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.AzurirajRacun.resources
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.Glavni.resources
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.IzvjestajProdaje.resources
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.NoviRacun.resources
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.PrikažiRačune.resources
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.Proizvodi.resources
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.Properties.Resources.resources
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.RačuniIzmeđuDvaBr.resources
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.StampajRacun.resources
+C:\Users\Faruk\Desktop\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.csproj.GenerateResource.Cache
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\ElektronskoPlacanje.exe.config
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.exe
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.pdb
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\IzvjestajiProdaje.rpt
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\RačuniIzmeđuDvaBroja.rpt
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\StampajRacune.rpt
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\IzvjestajiProdaje.cs
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\RačuniIzmeđuDvaBroja.cs
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\StampajRacune.cs
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\ElektronskoPlacanje.exe
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\bin\Debug\ElektronskoPlacanje.pdb
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.AzurirajRacun.resources
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.Glavni.resources
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.IzvjestajProdaje.resources
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.NoviRacun.resources
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.PrikažiRačune.resources
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.Proizvodi.resources
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.Properties.Resources.resources
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.RačuniIzmeđuDvaBr.resources
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.StampajRacun.resources
+C:\Users\Faruk\Desktop\Skola\maturski\ElektronskoPlacanje\ElektronskoPlacanje\obj\Debug\ElektronskoPlacanje.csproj.GenerateResource.Cache
